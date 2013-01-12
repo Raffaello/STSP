@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TSP">
+</Property><Property Name="Solution File" Value="C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\TSP.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\TSP.suo">
+</Property><Property Name="Date" Value="sabato 4 dicembre 2010">
+</Property><Property Name="Time" Value="17:31">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TSP.sln" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\TSP.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TSP.suo" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\TSP.suo">
+</Event><Event ErrorLevel="0" Project="TSP" Source="TSP.csproj" Description="Project file successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\TSP.csproj">
+</Event><Event ErrorLevel="0" Project="TSP" Source="AboutBox1.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\AboutBox1.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="AboutBox1.Designer.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\AboutBox1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="c3opt.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\c3opt.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="clboptparam.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\clboptparam.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="c2opt.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\c2opt.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="c2optparam.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\c2optparam.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="cTSP_LIST.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\cTSP_LIST.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Form1.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Form1.Designer.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Form2opt.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Form2opt.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Form2opt.Designer.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Form2opt.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Form3opt.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Form3opt.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Form3opt.Designer.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Form3opt.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="FormGenerate.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\FormGenerate.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="FormGenerate.Designer.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\FormGenerate.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="FormTreeView.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\FormTreeView.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="FormTreeView.Designer.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\FormTreeView.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Form_1tree.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Form_1tree.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Form_1tree.Designer.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Form_1tree.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Form_LBopt.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Form_LBopt.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Form_LBopt.Designer.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Form_LBopt.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Graph.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Graph.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="MST.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\MST.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="NNForm.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\NNForm.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="NNForm.Designer.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\NNForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="NNThread.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\NNThread.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Program.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="cTSP.cs" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\cTSP.cs">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Resources\Warning[1]" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Resources\Warning[1]">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Resources\ZoomHS[1]" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Resources\ZoomHS[1]">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Resources\ZoomInHS[1]" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Resources\ZoomInHS[1]">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Resources\ZoomOutHS[1]" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Resources\ZoomOutHS[1]">
+</Event><Event ErrorLevel="0" Project="TSP" Source="AboutBox1.resx" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Form1.resx" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Form2opt.resx" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Form2opt.resx">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Form3opt.resx" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Form3opt.resx">
+</Event><Event ErrorLevel="0" Project="TSP" Source="FormGenerate.resx" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\FormGenerate.resx">
+</Event><Event ErrorLevel="0" Project="TSP" Source="FormTreeView.resx" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\FormTreeView.resx">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Form_1tree.resx" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Form_1tree.resx">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Form_LBopt.resx" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Form_LBopt.resx">
+</Event><Event ErrorLevel="0" Project="TSP" Source="NNForm.resx" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\NNForm.resx">
+</Event><Event ErrorLevel="0" Project="TSP" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\Raffaello\Documents\Uni\Ott.Comb\TSP_V2\Project1\TSP\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TSP" Source="TSP.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TSP" Source="TSP.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TSP.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TSP.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TSP" Source="TSP.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
